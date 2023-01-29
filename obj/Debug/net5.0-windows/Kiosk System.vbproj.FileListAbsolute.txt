@@ -1,0 +1,21 @@
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\obj\Debug\net5.0-windows\Kiosk_System.Form1.resources
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\obj\Debug\net5.0-windows\Kiosk System.vbproj.GenerateResource.cache
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\obj\Debug\net5.0-windows\Kiosk System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\obj\Debug\net5.0-windows\Kiosk System.AssemblyInfoInputs.cache
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\obj\Debug\net5.0-windows\Kiosk System.AssemblyInfo.vb
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\obj\Debug\net5.0-windows\Kiosk System.vbproj.CoreCompileInputs.cache
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\bin\Debug\net5.0-windows\Kiosk System.exe
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\bin\Debug\net5.0-windows\Kiosk System.deps.json
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\bin\Debug\net5.0-windows\Kiosk System.runtimeconfig.json
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\bin\Debug\net5.0-windows\Kiosk System.runtimeconfig.dev.json
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\bin\Debug\net5.0-windows\Kiosk System.dll
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\bin\Debug\net5.0-windows\ref\Kiosk System.dll
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\bin\Debug\net5.0-windows\Kiosk System.pdb
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\obj\Debug\net5.0-windows\Kiosk System.dll
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\obj\Debug\net5.0-windows\ref\Kiosk System.dll
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\obj\Debug\net5.0-windows\Kiosk System.pdb
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\obj\Debug\net5.0-windows\Kiosk System.genruntimeconfig.cache
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\obj\Debug\net5.0-windows\Kiosk_System.Resources.resources
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\obj\Debug\net5.0-windows\Kiosk_System.payment.resources
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\obj\Debug\net5.0-windows\Kiosk_System.Receipt.resources
+C:\Users\Raheeb Abdulsalam\OneDrive - Birmingham Metropolitan College\Access to computing 2021\Object Oriented Programming\Kiosk System\Kiosk System\obj\Debug\net5.0-windows\Kiosk System.vbproj.AssemblyReference.cache
