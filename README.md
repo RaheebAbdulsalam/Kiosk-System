@@ -1,6 +1,6 @@
 # Kiosk-System
 
-The aim of this Object Oriented application that I have developed is to help a small local chain specialising in selling luxury handmade sandwiches. The application is a KIOSK style ordering system and payment system which will help customers and staff to order and pay for food.  The Kiosk ordering system will make it easier for customers to customize, pay for, pick up their orders and decrease the chance of order error, while also providing more opportunities for Mia’s Sandwich shop to reallocate employee time that spent on taking orders to provide more efficient and accurate service while reducing transaction costs.
+The application is a KIOSK style ordering system and payment system which will help customers and staff to order and pay for food.  The Kiosk ordering system will make it easier for customers to customize, pay for, pick up their orders and decrease the chance of order error, while also providing more opportunities for Mia’s Sandwich shop to reallocate employee time that spent on taking orders to provide more efficient and accurate service while reducing transaction costs.
 
 The following are some screenshots from the implemnted application:
 
